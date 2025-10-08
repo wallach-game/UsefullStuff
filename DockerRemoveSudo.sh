@@ -1,3 +1,3 @@
 sudo groupadd docker
 sudo usermod -aG docker $USER
-reboot
+sudo reboot
